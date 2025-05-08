@@ -28,7 +28,7 @@ Dataset được sử dụng trong dự án chứa thông tin về học sinh v�
 2. **Huấn luyện mô hình**:
    - Mô hình **MLP** được sử dụng để dự đoán nghề nghiệp dựa trên các đặc trưng đầu vào.
    - Dữ liệu được chia thành tập huấn luyện và tập kiểm tra (tỷ lệ 8/2 trên mỗi ngành nghề).
-   - Mô hình được lưu vào file `model.pkl` trong thư mục `/content/drive/MyDrive/Semes_4/AI/job_recommendation_final3/` để tái sử dụng.
+   - Mô hình được lưu vào file `model.pkl` để tái sử dụng.
 
 3. **Dự đoán trên dữ liệu giả**:
    - Một tập hợp dữ liệu giả (`synthetic_data`) được tạo để kiểm tra khả năng dự đoán của mô hình. Mỗi mẫu dữ liệu chứa 16 giá trị đại diện cho điểm số của các loại trí thông minh và các đặc trưng khác.
