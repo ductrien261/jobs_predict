@@ -1,4 +1,4 @@
-# Hệ Thống Gợi Ý Nghề Nghiệp dựa trên mạng Neuron đa lớp
+# Hệ Thống Gợi Ý Nghề Nghiệp
 
 ## Giới thiệu
 Dự án này xây dựng một hệ thống gợi ý nghề nghiệp sử dụng mô hình học máy **Multi-Layer Perceptron (MLP)** để dự đoán các nghề nghiệp phù hợp với học sinh dựa trên điểm số của các loại trí thông minh và các đặc điểm khác. 
